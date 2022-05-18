@@ -1,0 +1,78 @@
+{
+    "populars": [
+        {
+            "id": 45,
+            "image": "https://via.placeholder.com/640x480.png/00dd55?text=aspernatur",
+            "title": "Davis-Langworth",
+            "description": "Iure voluptas et qui laudantium magnam. Libero error unde et id. Soluta non eos nihil.",
+            "date": "1982-02-25",
+            "url": "http://purdy.org/quo-est-blanditiis-dolores-recusandae",
+            "is_popular": true,
+            "created_at": "2022-04-04T14:43:00.000000Z",
+            "updated_at": "2022-05-18T15:37:12.000000Z",
+            "event_category_id": 9
+        },
+        {
+            "id": 72,
+            "image": "https://via.placeholder.com/640x480.png/00ffff?text=officiis",
+            "title": "Mertz, Purdy and Barrows",
+            "description": "Pariatur doloribus excepturi perferendis dolor dignissimos dolor non. Ea amet dignissimos quia quidem dolores. Maxime dicta modi quidem velit.",
+            "date": "1970-07-05",
+            "url": "http://www.senger.com/harum-officia-et-accusantium-nesciunt",
+            "is_popular": true,
+            "created_at": "2021-08-28T00:55:54.000000Z",
+            "updated_at": "2022-05-18T15:37:12.000000Z",
+            "event_category_id": 15
+        },
+        {
+            "id": 9,
+            "image": "https://via.placeholder.com/640x480.png/00ddaa?text=et",
+            "title": "Hagenes Inc",
+            "description": "Vel placeat assumenda laboriosam ut est. Ea impedit distinctio aperiam dolor est sunt beatae eum. Fuga reprehenderit fuga sit ratione ullam.",
+            "date": "1977-04-11",
+            "url": "https://rempel.com/rerum-aperiam-facilis-numquam-ullam-est-qui.html",
+            "is_popular": true,
+            "created_at": "2021-05-16T13:14:17.000000Z",
+            "updated_at": "2022-05-18T15:37:11.000000Z",
+            "event_category_id": 2
+        }
+    ],
+    "latest": [
+        {
+            "id": 45,
+            "image": "https://via.placeholder.com/640x480.png/00dd55?text=aspernatur",
+            "title": "Davis-Langworth",
+            "description": "Iure voluptas et qui laudantium magnam. Libero error unde et id. Soluta non eos nihil.",
+            "date": "1982-02-25",
+            "url": "http://purdy.org/quo-est-blanditiis-dolores-recusandae",
+            "is_popular": true,
+            "created_at": "2022-04-04T14:43:00.000000Z",
+            "updated_at": "2022-05-18T15:37:12.000000Z",
+            "event_category_id": 9
+        },
+        {
+            "id": 68,
+            "image": "https://via.placeholder.com/640x480.png/003311?text=ipsa",
+            "title": "Balistreri Inc",
+            "description": "Aut rerum ex repudiandae aliquid sapiente veritatis. Repudiandae quisquam ipsum ut odio necessitatibus et deleniti. Placeat blanditiis nesciunt ea consequatur error quia consectetur aut. Explicabo deserunt quibusdam impedit dicta quibusdam.",
+            "date": "1982-08-03",
+            "url": "http://www.cummings.net/rerum-qui-nisi-quaerat-rem-voluptas-ea",
+            "is_popular": false,
+            "created_at": "2022-03-29T07:21:05.000000Z",
+            "updated_at": "2022-05-18T15:37:12.000000Z",
+            "event_category_id": 14
+        },
+        {
+            "id": 72,
+            "image": "https://via.placeholder.com/640x480.png/00ffff?text=officiis",
+            "title": "Mertz, Purdy and Barrows",
+            "description": "Pariatur doloribus excepturi perferendis dolor dignissimos dolor non. Ea amet dignissimos quia quidem dolores. Maxime dicta modi quidem velit.",
+            "date": "1970-07-05",
+            "url": "http://www.senger.com/harum-officia-et-accusantium-nesciunt",
+            "is_popular": true,
+            "created_at": "2021-08-28T00:55:54.000000Z",
+            "updated_at": "2022-05-18T15:37:12.000000Z",
+            "event_category_id": 15
+        }
+    ]
+}

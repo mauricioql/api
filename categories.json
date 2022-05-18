@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "image": "https://via.placeholder.com/80x80.png/009955?text=vitae",
+        "name": "Connelly, Reichert and Huel",
+        "badge": "MidnightBlue",
+        "is_featured": false
+    },
+    {
+        "id": 2,
+        "image": "https://via.placeholder.com/80x80.png/0033ee?text=itaque",
+        "name": "Collins-Lubowitz",
+        "badge": null,
+        "is_featured": false
+    },
+    {
+        "id": 3,
+        "image": "https://via.placeholder.com/80x80.png/00aa33?text=alias",
+        "name": "Steuber-Cassin",
+        "badge": "PeachPuff",
+        "is_featured": false
+    },
+    {
+        "id": 4,
+        "image": "https://via.placeholder.com/80x80.png/002222?text=sint",
+        "name": "Will Group",
+        "badge": "PaleGoldenRod",
+        "is_featured": false
+    },
+    {
+        "id": 5,
+        "image": "https://via.placeholder.com/80x80.png/0011ee?text=iste",
+        "name": "Kemmer, Paucek and Bergnaum",
+        "badge": null,
+        "is_featured": false
+    },
+    {
+        "id": 6,
+        "image": "https://via.placeholder.com/80x80.png/0055aa?text=non",
+        "name": "Baumbach and Sons",
+        "badge": null,
+        "is_featured": false
+    },
+    {
+        "id": 7,
+        "image": "https://via.placeholder.com/80x80.png/00ddcc?text=officia",
+        "name": "Leuschke Group",
+        "badge": null,
+        "is_featured": false
+    },
+    {
+        "id": 8,
+        "image": "https://via.placeholder.com/80x80.png/004444?text=aut",
+        "name": "Mohr Ltd",
+        "badge": "Gainsboro",
+        "is_featured": false
+    },
+    {
+        "id": 9,
+        "image": "https://via.placeholder.com/80x80.png/003399?text=voluptas",
+        "name": "Gibson-Simonis",
+        "badge": "MediumVioletRed",
+        "is_featured": false
+    },
+    {
+        "id": 10,
+        "image": "https://via.placeholder.com/80x80.png/006699?text=possimus",
+        "name": "Bradtke, Durgan and Wisozk",
+        "badge": "SpringGreen",
+        "is_featured": false
+    },
+    {
+        "id": 11,
+        "image": "https://via.placeholder.com/80x80.png/005544?text=minus",
+        "name": "Wilkinson-Volkman",
+        "badge": "Gold",
+        "is_featured": true
+    },
+    {
+        "id": 12,
+        "image": "https://via.placeholder.com/80x80.png/000011?text=aspernatur",
+        "name": "Cruickshank Group",
+        "badge": "DarkGray",
+        "is_featured": true
+    },
+    {
+        "id": 13,
+        "image": "https://via.placeholder.com/80x80.png/009977?text=modi",
+        "name": "Simonis PLC",
+        "badge": null,
+        "is_featured": true
+    },
+    {
+        "id": 14,
+        "image": "https://via.placeholder.com/80x80.png/00cc33?text=alias",
+        "name": "Skiles-Green",
+        "badge": "DarkGray",
+        "is_featured": true
+    },
+    {
+        "id": 15,
+        "image": "https://via.placeholder.com/80x80.png/0077ff?text=aut",
+        "name": "Powlowski-Hoeger",
+        "badge": null,
+        "is_featured": true
+    },
+    {
+        "id": 16,
+        "image": "https://via.placeholder.com/80x80.png/001100?text=non",
+        "name": "Wilkinson Ltd",
+        "badge": null,
+        "is_featured": true
+    }
+]
